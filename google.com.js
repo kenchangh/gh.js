@@ -8,5 +8,4 @@ adsDiv.remove();
 
 $('button#gbqfb').click(function() {
   adsDiv.remove();
-
 });
