@@ -130,7 +130,7 @@ if (resultBox.length) {
     ? participantData.success = true
     : participantData.success = false;
   
-  var newResult = makeBox(participantData)
+  var newResult = makeBox(participantData);
 
   // Anddd finally, presto!
   resultBox.html(newResult);
