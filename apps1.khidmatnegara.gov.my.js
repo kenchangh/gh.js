@@ -1,6 +1,5 @@
 /*
- * Author: Maverick Chan
- * Project: PLKN "Hack"
+ * Cus well, trolling my friends is fun.
  */
 var resultBox = $('#result-box');
 
