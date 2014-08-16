@@ -1,6 +1,7 @@
 /*
  * Cus well, trolling my friends is fun.
  */
+
 var resultBox = $('#result-box');
 
 
@@ -45,36 +46,36 @@ function makeBox(details) {
 
 var participants = [
   {
-  name: 'PUA QIE SHANG',
-  ic: '970820145107'
+    name: 'PUA QIE SHANG',
+    ic: '970820145107'
   },
   {
-  name: 'TOH WEI YAN',
-  ic: '970825105649'
+    name: 'TOH WEI YAN',
+    ic: '970825105649'
   },
   {
-  name: 'NICHOLAS KONG ZHI XIAN',
-  ic: '970421105765'
+    name: 'NICHOLAS KONG ZHI XIAN',
+    ic: '970421105765'
   },
   {
-  name: 'CHAN KOK FOONG',
-  ic: '971224105859'
+    name: 'CHAN KOK FOONG',
+    ic: '971224105859'
   },
   {
-  name: 'MATTHEW NIMESHER PARAMESWARAN',
-  ic: '970820145019'
+    name: 'MATTHEW NIMESHER PARAMESWARAN',
+    ic: '970820145019'
   },
   {
-  name: 'WONG KANG CHUEN',
-  ic: '970707146095'
+    name: 'WONG KANG CHUEN',
+    ic: '970707146095'
   },
   {
-  name: 'BOON KERK ZHAN',
-  ic: '971106565299'
+    name: 'BOON KERK ZHAN',
+    ic: '971106565299'
   },
   {
-  name: 'CHAN GUAN HAO',
-  ic: '970603105635'
+    name: 'CHAN GUAN HAO',
+    ic: '970603105635'
   }
 ];
 
