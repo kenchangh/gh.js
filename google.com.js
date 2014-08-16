@@ -1,6 +1,6 @@
 /*
-Thanks, Google.
-*/
+ * Thanks, Google.
+ */
 
 var adsDiv = $('div#taw');
 
