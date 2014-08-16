@@ -4,5 +4,8 @@
 
 // Removes 'Clone in Desktop' option
 // (( nobody ever uses GitHub Windows ))
-$( $('.only-with-full-nav').children()[4] ).remove();
+var system = navigator.platform;
 
+if (system.indexOf('Win') === -1) {
+  $( $('.only-with-full-nav').children()[4] ).remove();
+}
